@@ -1,5 +1,17 @@
 # Frontend Mentor - Intro component with sign up form
 
+<h1><a href="https://thirsty-torvalds-8c5d1b.netlify.app/">Live site</a></h1>
+
+
+## Technologies
+
+- HTML
+- SCSS + media queries (mobile and desktop only)
+- JavaScript
+
+
+
+
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
